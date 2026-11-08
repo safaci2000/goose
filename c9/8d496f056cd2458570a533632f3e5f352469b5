@@ -1,0 +1,33 @@
+provider_run_test.go
+  h_5c3111fc5355aa 779-781,786,788-789
+migrate.go
+  h_5c3111fc5355aa 226
+  h_5c3111fc5355aa 227
+migrate_empty_version_test.go
+  h_5c3111fc5355aa 14-17,33-35,38-40,62,64-66
+internal/testing/integration/database_test.go
+  h_5c3111fc5355aa 90-91,101
+CHANGELOG.md
+  h_5c3111fc5355aa 12-18
+internal/dialects/clickhouse.go
+  h_5c3111fc5355aa 65-67
+provider_run.go
+  h_5c3111fc5355aa 364
+doc/dialect-clickhouse.md
+  h_5c3111fc5355aa 211-213
+provider.go
+  h_5c3111fc5355aa 390,443-444
+internal/dialects/tableexists_test.go
+  h_5c3111fc5355aa 1-126
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c98d496f056cd2458570a533632f3e5f352469b5",
+  "prompts": {},
+  "humans": {
+    "h_5c3111fc5355aa": {
+      "author": "Samir Faci <samir@es.net>"
+    }
+  }
+}
