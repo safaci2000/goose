@@ -1,0 +1,28 @@
+migrate.go
+  h_5c3111fc5355aa 226
+  h_5c3111fc5355aa 227
+provider_run.go
+  h_5c3111fc5355aa 364-371
+provider.go
+  h_5c3111fc5355aa 390,443-444
+doc/dialect-clickhouse.md
+  h_5c3111fc5355aa 211-214,219-220
+  h_5c3111fc5355aa 215-218
+CHANGELOG.md
+  h_5c3111fc5355aa 12-20
+provider_run_test.go
+  h_5c3111fc5355aa 779-781,786,788-789,801-802,810
+migrate_empty_version_test.go
+  h_5c3111fc5355aa 14-17,33-35,38-40,62,64-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9b93140afc7f834b6220916c250e06cea63a54fa",
+  "prompts": {},
+  "humans": {
+    "h_5c3111fc5355aa": {
+      "author": "Samir Faci <samir@es.net>"
+    }
+  }
+}
