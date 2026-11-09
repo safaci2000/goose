@@ -1,0 +1,48 @@
+CHANGELOG.md
+  h_5c3111fc5355aa 10-16
+internal/dialects/clickhouse.go
+  h_5c3111fc5355aa 9-10,16,54-63
+internal/dialects/clickhouse_test.go
+  h_5c3111fc5355aa 1-31
+internal/dialects/redshift.go
+  h_5c3111fc5355aa 9-10,16,53-62
+internal/dialects/redshift_test.go
+  h_5c3111fc5355aa 1-31
+internal/dialects/spanner.go
+  h_5c3111fc5355aa 9-10,16,51-58
+internal/dialects/spanner_test.go
+  h_5c3111fc5355aa 1-37
+internal/dialects/sqlite3.go
+  h_5c3111fc5355aa 9-10,16,52-56
+internal/dialects/sqlite3_test.go
+  h_5c3111fc5355aa 1-23
+internal/dialects/sqlserver.go
+  h_5c3111fc5355aa 9-10,16,52-61
+internal/dialects/sqlserver_test.go
+  h_5c3111fc5355aa 1-36
+internal/dialects/starrocks.go
+  h_5c3111fc5355aa 9-10,16,55-64
+internal/dialects/starrocks_test.go
+  h_5c3111fc5355aa 1-31
+internal/dialects/tidb.go
+  h_5c3111fc5355aa 9-10,16,53-62
+internal/dialects/tidb_test.go
+  h_5c3111fc5355aa 1-31
+internal/dialects/turso.go
+  h_5c3111fc5355aa 5-6,14
+internal/dialects/vertica.go
+  h_5c3111fc5355aa 9,12,18,55-64
+internal/dialects/vertica_test.go
+  h_5c3111fc5355aa 1-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b366caa47724393150dca29ecab3ba35c1e49566",
+  "prompts": {},
+  "humans": {
+    "h_5c3111fc5355aa": {
+      "author": "Samir Faci <samir@es.net>"
+    }
+  }
+}
